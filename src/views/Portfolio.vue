@@ -1,17 +1,17 @@
 <template>
- <h1>Home</h1>
+  <h1>portfoliko</h1>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  components: { },
+  name: 'Portfolio',
   props: {
    
   }
 }
 </script>
 
-
-<style scoped>
+<style>
 
 </style>
